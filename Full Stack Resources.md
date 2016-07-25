@@ -1,6 +1,6 @@
 # Full Stack Tutorials
 
-**AJAX:**<br>
+##AJAX:<br>
 _jQuery & Ajax_:<br>
 
 **Ruby on Rails - Railscasts PRO #136 jQuery & Ajax (revised)**
@@ -14,8 +14,9 @@ _Formatting_:<br>
 By: GitHub
 [https://help.github.com/articles/basic-writing-and-formatting-syntax/]
 
-##RSpec**<br>
-_Testing_:<br>
+##RSpec<br>
+_Testing_:
+
 **Everyday Rails Testing with RSpec**
 By: Aaron Sumner - Not Free<br>
 [https://leanpub.com/everydayrailsrspec]
