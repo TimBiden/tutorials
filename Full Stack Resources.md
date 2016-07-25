@@ -38,3 +38,10 @@ _Complete Tutorials_:<br>
 **Ruby on Rails Tutorial**
 By: Michael Hartl<br>
 [https://www.railstutorial.org/book/_single-page#sec-introduction]
+
+##SQL:<br>
+_General Tutorials_:<br>
+
+**A beginners guide to SQL**
+By: Soham Kamani<br>
+[http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/]
