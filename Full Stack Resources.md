@@ -12,3 +12,8 @@ Full Stack Tutorials
 
       By: Maurice Herlihy, Nir Shavit, Moran Tzafrir
       http://people.csail.mit.edu/shanir/publications/disc2008_submission_98.pdf
+
+  Ruby On Rails:
+    Complete Tutorials:
+      By: Michael Hartl
+      https://www.railstutorial.org/book/_single-page#sec-introduction
