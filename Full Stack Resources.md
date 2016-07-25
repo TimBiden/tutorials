@@ -8,7 +8,7 @@ Full Stack Tutorials
   Ruby:
     Hash Collision Resolution:
       By: Emmanuel Goossaert
-      http://codecapsule.com/2013/11/11/robin-hood-hashing/
+      http://codecapsule.com/2013/11/11/robin-hood-hashing
 
       By: Maurice Herlihy, Nir Shavit, Moran Tzafrir
       http://people.csail.mit.edu/shanir/publications/disc2008_submission_98.pdf
