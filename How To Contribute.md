@@ -8,9 +8,9 @@ How To Contribute:
 
 In the end, it should look like this:
 
-##GitHub:<br>
-_Formatting_:<br>
+##RSpec<br>
+_Testing_:
 
-**Basic writing and formatting syntax**
-By: GitHub<br>
-https://help.github.com/articles/basic-writing-and-formatting-syntax/
+**Everyday Rails Testing with RSpec**
+By: Aaron Sumner - Not Free<br>
+https://leanpub.com/everydayrailsrspec
