@@ -7,7 +7,7 @@ _jQuery & Ajax_:<br>
 By: Railscasts Reloaded<br>
 [https://www.youtube.com/watch?v=FBxVN7U1Qsk]
 
-**GitHub:**<br>
+##GitHub:<br>
 _Formatting_:<br>
 
 **Basic writing and formatting syntax**
@@ -22,7 +22,7 @@ By: Aaron Sumner - Not Free<br>
 [https://leanpub.com/everydayrailsrspec]
 
 **RSpec Cheat Sheet**
-By: Dave Astel
+By: Dave Astel<br>
 [http://www.anchor.com.au/wp-content/uploads/rspec_cheatsheet_attributed.pdf]
 
 ##Ruby:<br>
