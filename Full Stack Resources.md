@@ -21,6 +21,10 @@ _Testing_:
 By: Aaron Sumner - Not Free<br>
 [https://leanpub.com/everydayrailsrspec]
 
+**RSpec Cheat Sheet**
+By: Dave Astel
+[http://www.anchor.com.au/wp-content/uploads/rspec_cheatsheet_attributed.pdf]
+
 ##Ruby:<br>
 _Hash Collision Resolution_:<br>
 
