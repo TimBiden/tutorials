@@ -5,47 +5,47 @@ _jQuery & Ajax_:<br>
 
 **Ruby on Rails - Railscasts PRO #136 jQuery & Ajax (revised)**
 By: Railscasts Reloaded<br>
-[https://www.youtube.com/watch?v=FBxVN7U1Qsk]
+https://www.youtube.com/watch?v=FBxVN7U1Qsk
 
 ##GitHub:<br>
 _Formatting_:<br>
 
 **Basic writing and formatting syntax**
 By: GitHub
-[https://help.github.com/articles/basic-writing-and-formatting-syntax/]
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 ##RSpec<br>
 _Testing_:
 
 **Everyday Rails Testing with RSpec**
 By: Aaron Sumner - Not Free<br>
-[https://leanpub.com/everydayrailsrspec]
+https://leanpub.com/everydayrailsrspec
 
 **RSpec Cheat Sheet**
 By: Dave Astel<br>
-[http://www.anchor.com.au/wp-content/uploads/rspec_cheatsheet_attributed.pdf]
+http://www.anchor.com.au/wp-content/uploads/rspec_cheatsheet_attributed.pdf
 
 ##Ruby:<br>
 _Hash Collision Resolution_:<br>
 
 **Robin Hood hashing**
 By: Emmanuel Goossaert<br>
-[http://codecapsule.com/2013/11/11/robin-hood-hashing]
+http://codecapsule.com/2013/11/11/robin-hood-hashing
 
 **Hopscotch Hashing**
 By: Maurice Herlihy, Nir Shavit, Moran Tzafrir<br>
-[http://people.csail.mit.edu/shanir/publications/disc2008_submission_98.pdf]
+http://people.csail.mit.edu/shanir/publications/disc2008_submission_98.pdf
 
 ##Ruby On Rails:<br>
 _Complete Tutorials_:<br>
 
 **Ruby on Rails Tutorial**
 By: Michael Hartl<br>
-[https://www.railstutorial.org/book/_single-page#sec-introduction]
+https://www.railstutorial.org/book/_single-page#sec-introduction
 
 ##SQL:<br>
 _General Tutorials_:<br>
 
 **A beginners guide to SQL**
 By: Soham Kamani<br>
-[http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/]
+http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/
