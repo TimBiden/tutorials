@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=FBxVN7U1Qsk
 _Formatting_:<br>
 
 **Basic writing and formatting syntax**
-By: GitHub
+By: GitHub<br>
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 ##RSpec<br>
