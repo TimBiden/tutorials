@@ -8,10 +8,10 @@ https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#ruby-
 
 ##Technologies
 ###AJAX
-https://github.com/TimBiden/tutorials/blob/master/Full%20Stack%20Resources.md#ajax
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#ajax
 
 ###GitHub
-https://github.com/TimBiden/tutorials/blob/master/Full%20Stack%20Resources.md#github
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#github
 
 ###RSpec
 https://github.com/TimBiden/tutorials/blob/master/Full%20Stack%20Resources.md#rspec
