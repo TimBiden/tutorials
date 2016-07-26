@@ -49,6 +49,12 @@ _Complete Tutorials_:<br>
 By: Michael Hartl<br>
 https://www.railstutorial.org/book/_single-page#sec-introduction
 
+_Routing_:<br>
+
+**Routing Introduction**
+By: The Odin Project<br>
+http://www.theodinproject.com/ruby-on-rails/routing
+
 ##SQL:<br>
 _General Tutorials_:<br>
 
