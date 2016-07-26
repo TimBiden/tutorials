@@ -6,8 +6,8 @@ How To Contribute:
 4. Please add a <br> after the author's name to separate the link onto a new line.
 
 "##GitHub:<br>"
-_Formatting_:<br>
-
-**Basic writing and formatting syntax**
-By: GitHub<br>
-[https://help.github.com/articles/basic-writing-and-formatting-syntax/]
+"_Formatting_:<br>"
+" "
+"**Basic writing and formatting syntax**"
+"By: GitHub<br>"
+"[https://help.github.com/articles/basic-writing-and-formatting-syntax/]"
