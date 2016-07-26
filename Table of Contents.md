@@ -14,19 +14,19 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resou
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#github
 
 ###RSpec
-https://github.com/TimBiden/tutorials/blob/master/Full%20Stack%20Resources.md#rspec
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#rspec
 
 ###Ruby
-https://github.com/TimBiden/tutorials/blob/master/Full%20Stack%20Resources.md#rspec
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#rspec
 
 ###Ruby on Rails
-https://github.com/TimBiden/tutorials/blob/master/Full%20Stack%20Resources.md#ruby-on-rails
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#ruby-on-rails
 
 ###SQL
-https://github.com/TimBiden/tutorials/blob/master/Full%20Stack%20Resources.md#sql
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#sql
 
 -----
 
 ##Ruby Gems
 ###Ruby Authentication
-https://github.com/TimBiden/tutorials/blob/master/Ruby%20Gems.md#user-authentication
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Ruby%20Gems.md#user-authentication
