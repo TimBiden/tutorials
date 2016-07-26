@@ -14,6 +14,12 @@ _Formatting_:<br>
 By: GitHub<br>
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
+_General_:<br>
+
+**git - the simple guide**
+By: Roger Dudler<br>
+http://rogerdudler.github.io/git-guide/
+
 ##RSpec<br>
 _Testing_:
 
