@@ -74,3 +74,11 @@ _General Tutorials_:<br>
 **A beginners guide to SQL**
 By: Soham Kamani<br>
 http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/
+
+**SQLBolt -- In browser interactive SQL tutorials**
+http://sqlbolt.com/
+
+##RegEx:<br>
+
+**RegexOne -- In browser interactive Regex tutorials**
+http://regexone.com/
