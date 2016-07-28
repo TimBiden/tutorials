@@ -16,7 +16,7 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 _General_:<br>
 
-**git - the simple guide**
+**Git - the simple guide**
 By: Roger Dudler<br>
 http://rogerdudler.github.io/git-guide/
 
@@ -26,6 +26,13 @@ _General_: <br>
 **Full Stack JavaScript**
 By: Gautam Arora<br>
 http://www.fullstackjs.com/book/
+
+##Rails<br>
+_Console_: <br>
+
+**Rails Console Shortcuts, Tips, and Tricks**
+By: The Pragmatic Studio<br>
+https://pragmaticstudio.com/blog/2014/3/11/console-shortcuts-tips-tricks
 
 ##RSpec<br>
 _Testing_:
