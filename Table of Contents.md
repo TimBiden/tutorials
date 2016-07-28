@@ -13,6 +13,9 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resou
 ###GitHub
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#github
 
+###JavaScript
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#javascript
+
 ###RSpec
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#rspec
 
