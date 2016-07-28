@@ -76,9 +76,11 @@ By: Soham Kamani<br>
 http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/
 
 **SQLBolt -- In browser interactive SQL tutorials**
+By: SQL Bolt<br>
 http://sqlbolt.com/
 
 ##RegEx:<br>
 
 **RegexOne -- In browser interactive Regex tutorials**
+By: Regex One<br>
 http://regexone.com/
