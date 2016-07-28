@@ -39,6 +39,12 @@ By: Dave Astel<br>
 http://www.anchor.com.au/wp-content/uploads/rspec_cheatsheet_attributed.pdf
 
 ##Ruby:<br>
+_Enumeration_:<br>
+
+**Enumerator: Ruby’s Versatile Iterator**
+By Jared Carroll<br>
+http://blog.carbonfive.com/2012/10/02/enumerator-rubys-versatile-iterator/
+
 _Hash Collision Resolution_:<br>
 
 **Robin Hood hashing**
