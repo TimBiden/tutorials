@@ -33,3 +33,6 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resou
 ##Ruby Gems
 ###Ruby Authentication
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Ruby%20Gems.md#user-authentication
+
+###Scheduling Tasks
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Ruby%20Gems.md#scheduling-tasks
