@@ -14,6 +14,10 @@ _PostgreSQL_:<br>
 By: RailsCasts<br>
 http://railscasts.com/episodes/342-migrating-to-postgresql?autoplay=true
 
+**12-Step Program for Scaling Web Applications on PostgreSQL**
+By: Konstantin Gredeskoul<br>
+http://www.slideshare.net/kigster/12step-program-for-scaling-web-applications-on-postgresql
+
 ##GitHub:<br>
 _Formatting_:<br>
 
