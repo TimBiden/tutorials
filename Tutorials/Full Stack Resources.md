@@ -7,6 +7,13 @@ _jQuery & Ajax_:<br>
 By: Railscasts Reloaded<br>
 https://www.youtube.com/watch?v=FBxVN7U1Qsk
 
+##Database:<br>
+_PostgreSQL_:<br>
+
+**Migrating to PostgreSQL**
+By: RailsCasts<br>
+http://railscasts.com/episodes/342-migrating-to-postgresql?autoplay=true
+
 ##GitHub:<br>
 _Formatting_:<br>
 
