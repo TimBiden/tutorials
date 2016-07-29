@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=4S4Wyndbnn0
 **Devise Authentication in Depth**
 By: Ilya Bodrov-Krukowski<br>
 https://www.sitepoint.com/devise-authentication-in-depth/
+
+**How to Schedule Tasks Using 'Whenever'**
+By: Eugene Wang<br>
+http://eewang.github.io/blog/2013/03/12/how-to-schedule-tasks-using-whenever/
