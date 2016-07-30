@@ -63,7 +63,7 @@ _Enumeration_:<br>
 By Jared Carroll<br>
 http://blog.carbonfive.com/2012/10/02/enumerator-rubys-versatile-iterator/
 
-**Another Ultimate Guide to Enum Ruby Methods - select and map**
+**Another Ultimate Guide to Enum Ruby Methods - each, select and map**
 By Dave Nelson<br>
 http://davenelsondev.com/another-one-and-only-ultimate-guide-to-enum-ruby-methods/
 
