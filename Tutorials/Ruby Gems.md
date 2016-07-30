@@ -8,7 +8,7 @@ https://launchschool.com/blog/how-to-use-devise-in-rails-for-authentication
 
 **Adding Usernames to Devise**
 By: DevFactor<br>
-https://www.youtube.com/watch?v=4S4Wyndbnn0
+https://youtu.be/4S4Wyndbnn0?t=279
 
 **Devise Authentication in Depth**
 By: Ilya Bodrov-Krukowski<br>
