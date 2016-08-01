@@ -18,6 +18,16 @@ https://www.codefellows.org/blog/three-battle-tested-ways-to-install-postgresql
 By: Konstantin Gredeskoul<br>
 http://www.slideshare.net/kigster/12step-program-for-scaling-web-applications-on-postgresql
 
+_SQL_:<br>
+
+**A beginners guide to SQL**
+By: Soham Kamani<br>
+http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/
+
+**SQLBolt -- In browser interactive SQL tutorials**
+By: SQL Bolt<br>
+http://sqlbolt.com/
+
 ##GitHub:<br>
 _Formatting_:<br>
 
@@ -89,17 +99,6 @@ _Routing_:<br>
 **Routing Introduction**
 By: The Odin Project<br>
 http://www.theodinproject.com/ruby-on-rails/routing
-
-##SQL:<br>
-_General Tutorials_:<br>
-
-**A beginners guide to SQL**
-By: Soham Kamani<br>
-http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/
-
-**SQLBolt -- In browser interactive SQL tutorials**
-By: SQL Bolt<br>
-http://sqlbolt.com/
 
 ##RegEx:<br>
 
