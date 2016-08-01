@@ -10,9 +10,9 @@ https://www.youtube.com/watch?v=FBxVN7U1Qsk
 ##Database:<br>
 _PostgreSQL_:<br>
 
-**Migrating to PostgreSQL**
-By: RailsCasts<br>
-http://railscasts.com/episodes/342-migrating-to-postgresql?autoplay=true
+**3 Battle-Tested Ways to Install PostgreSQL**
+By: Ivan Storck<br>
+https://www.codefellows.org/blog/three-battle-tested-ways-to-install-postgresql
 
 **12-Step Program for Scaling Web Applications on PostgreSQL**
 By: Konstantin Gredeskoul<br>
