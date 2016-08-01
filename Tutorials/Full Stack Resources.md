@@ -19,9 +19,8 @@ By: Konstantin Gredeskoul<br>
 http://www.slideshare.net/kigster/12step-program-for-scaling-web-applications-on-postgresql
 
 **Migrating to PostgreSQL**
-By: RailsCasts<br>
+By: RailsCasts - *Pay attention to the `rails new ...` command.*<br>
 http://railscasts.com/episodes/342-migrating-to-postgresql?autoplay=true<br>
-Pay attention to the `rails new ...` command.
 
 _SQL_:<br>
 
