@@ -18,6 +18,11 @@ https://www.codefellows.org/blog/three-battle-tested-ways-to-install-postgresql
 By: Konstantin Gredeskoul<br>
 http://www.slideshare.net/kigster/12step-program-for-scaling-web-applications-on-postgresql
 
+**Migrating to PostgreSQL**
+By: RailsCasts<br>
+http://railscasts.com/episodes/342-migrating-to-postgresql?autoplay=true<br>
+Pay attention to the `rails new ...` command.
+
 _SQL_:<br>
 
 **A beginners guide to SQL**
