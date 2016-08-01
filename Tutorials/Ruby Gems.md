@@ -10,6 +10,10 @@ https://launchschool.com/blog/how-to-use-devise-in-rails-for-authentication
 By: DevFactor<br>
 https://youtu.be/4S4Wyndbnn0?t=279
 
+**How To: Allow users to sign in using their username or email address**
+By: plataformatec<br>
+https://github.com/plataformatec/devise/wiki/How-To:-Allow-users-to-sign-in-using-their-username-or-email-address
+
 **Devise Authentication in Depth**
 By: Ilya Bodrov-Krukowski<br>
 https://www.sitepoint.com/devise-authentication-in-depth/
