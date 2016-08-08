@@ -28,9 +28,6 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resou
 ###Ruby on Rails
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#ruby-on-rails
 
-###SQL
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#sql
-
 -----
 
 ##Ruby Gems
