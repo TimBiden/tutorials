@@ -53,6 +53,10 @@ _General_: <br>
 By: Gautam Arora<br>
 http://www.fullstackjs.com/book/
 
+**Prototype in JavaScript**
+By: kudvenkat<br>
+https://www.youtube.com/watch?v=2rkEbcptR64
+
 ##Rails<br>
 _Console_: <br>
 
@@ -94,6 +98,14 @@ http://people.csail.mit.edu/shanir/publications/disc2008_submission_98.pdf
 
 ##Ruby On Rails:<br>
 _Complete Tutorials_:<br>
+
+**Create a Chat App with Rails 5**
+By: Ilya Bodrov-Krukowski<br>
+https://www.sitepoint.com/create-a-chat-app-with-rails-5-actioncable-and-devise/
+
+**How to use RVM and different versions of rails**
+By: roninblade<br>
+http://stackoverflow.com/questions/18348373/how-to-use-rvm-and-different-versions-of-rails
 
 **Ruby on Rails Tutorial**
 By: Michael Hartl<br>
