@@ -53,6 +53,10 @@ _General_: <br>
 By: Gautam Arora<br>
 http://www.fullstackjs.com/book/
 
+**JavaScript: Understanding the Weird Parts**
+By: Anthony Alicea - Not Free<br>
+https://www.udemy.com/understand-javascript/
+
 **Prototype in JavaScript**
 By: kudvenkat<br>
 https://www.youtube.com/watch?v=2rkEbcptR64
