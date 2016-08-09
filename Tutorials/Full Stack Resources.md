@@ -61,6 +61,10 @@ https://www.udemy.com/understand-javascript/
 By: kudvenkat<br>
 https://www.youtube.com/watch?v=2rkEbcptR64
 
+**You Don't Know JS (book series)**
+By: Kyle Simpson<br>
+https://github.com/getify/You-Dont-Know-JS
+
 ##Rails<br>
 _Console_: <br>
 
