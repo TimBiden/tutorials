@@ -3,6 +3,8 @@
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#technologies
 ##Ruby Gems
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#ruby-gems-1
+##Specific abilities with Ruby and/or Rails
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Specific%20Abilities
 
 -----
 
