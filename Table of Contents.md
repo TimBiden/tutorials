@@ -5,8 +5,8 @@ https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#compu
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#major-technologies-1
 ##Ruby Gems
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#ruby-gems-1
-##Specific abilities with Ruby and/or Rails
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Specific%20Abilities
+##Things You Can Do With Ruby/Rails
+https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#things-you-can-do-with-ruby
 
 -----
 ##Computer Science
