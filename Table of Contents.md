@@ -10,6 +10,9 @@ https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#thing
 
 -----
 ##Computer Science
+###Dictionary
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md#dictionary
+
 ###Sorting
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md#sorting
 
