@@ -1,6 +1,6 @@
 #Table of Contents.md
 ##Computer Science
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md
+https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#computer-science-1
 ##Major Technologies
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#technologies
 ##Ruby Gems
@@ -13,7 +13,9 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Specific%20Abilities
 ###Sorting
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md#sorting
 
-##Technologies
+-----
+
+##Major Technologies
 ###AJAX
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#ajax
 
@@ -43,3 +45,9 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Ruby%20Gems.md#user-
 
 ###Scheduling Tasks
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Ruby%20Gems.md#scheduling-tasks
+
+-----
+
+##Things You Can Do With Ruby
+###User File Uploads
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Specific%20Abilities.md#user-file-uploads
