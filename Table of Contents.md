@@ -1,4 +1,6 @@
 #Table of Contents.md
+##Computer Science
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md
 ##Major Technologies
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#technologies
 ##Ruby Gems
@@ -7,6 +9,9 @@ https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#ruby-
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Specific%20Abilities
 
 -----
+##Computer Science
+###Sorting
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md#sorting
 
 ##Technologies
 ###AJAX
