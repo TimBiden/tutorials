@@ -2,7 +2,7 @@
 ##Computer Science
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#computer-science-1
 ##Major Technologies
-https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#technologies
+https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#major-technologies-1
 ##Ruby Gems
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#ruby-gems-1
 ##Specific abilities with Ruby and/or Rails
