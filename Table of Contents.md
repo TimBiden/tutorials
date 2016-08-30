@@ -40,6 +40,9 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resou
 ###Ruby on Rails
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#ruby-on-rails
 
+###Web Server Config
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#web-server-configuration
+
 -----
 
 ##Ruby Gems
