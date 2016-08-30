@@ -130,3 +130,10 @@ http://www.theodinproject.com/ruby-on-rails/routing
 **RegexOne -- In browser interactive Regex tutorials**
 By: Regex One<br>
 http://regexone.com/
+
+##Web Server Configuration:<br>
+_Production Server for Rails 4_:<br>
+
+**How to Setup a Production Server for Rails 4**
+By: Rob McLarty<br>
+http://robmclarty.com/blog/how-to-setup-a-production-server-for-rails-4
