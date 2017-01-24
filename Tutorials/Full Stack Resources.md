@@ -53,6 +53,10 @@ _General_: <br>
 By: Gautam Arora<br>
 http://www.fullstackjs.com/book/
 
+**JavaScript Style Guide and Coding Conventions**
+By: w3schools.com<br>
+http://www.w3schools.com/js/js_conventions.asp
+
 **JavaScript: Understanding the Weird Parts**
 By: Anthony Alicea - Not Free<br>
 https://www.udemy.com/understand-javascript/
