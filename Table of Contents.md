@@ -7,6 +7,8 @@ https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#major
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#ruby-gems-1
 ##Things You Can Do With Ruby/Rails
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#things-you-can-do-with-ruby
+##Web Design
+
 
 -----
 ##Computer Science
@@ -57,3 +59,9 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Ruby%20Gems.md#sched
 ##Things You Can Do With Ruby
 ###User File Uploads
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Specific%20Abilities.md#user-file-uploads
+
+-----
+
+##Web Design
+###General
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#ajax

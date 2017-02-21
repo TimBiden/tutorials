@@ -49,6 +49,14 @@ http://rogerdudler.github.io/git-guide/
 ##JavaScript<br>
 _General_: <br>
 
+**ES6 For Everyone!**
+By: Wes Bos - Not Free<br>
+https://es6.io/
+
+**ES6 Overview in 350 Bullet Points**
+By: Nicolás Bevacqua<br>
+https://ponyfoo.com/articles/es6
+
 **Full Stack JavaScript**
 By: Gautam Arora<br>
 http://www.fullstackjs.com/book/
