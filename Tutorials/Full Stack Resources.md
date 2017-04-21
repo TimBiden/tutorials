@@ -49,6 +49,10 @@ http://rogerdudler.github.io/git-guide/
 ## JavaScript<br>
 _General_: <br>
 
+**Beginner’s Guide to npm — the Node Package Manager**
+By: Peter Dierx<br>
+https://www.sitepoint.com/beginners-guide-node-package-manager/
+
 **ES6 For Everyone!**
 By: Wes Bos - Not Free<br>
 https://es6.io/
