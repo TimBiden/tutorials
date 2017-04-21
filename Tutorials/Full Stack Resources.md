@@ -61,6 +61,10 @@ https://ponyfoo.com/articles/es6
 By: Gautam Arora<br>
 http://www.fullstackjs.com/book/
 
+**Gentle explanation of 'this' keyword in JavaScript**
+By: Dmitri Pavlutin<br>
+https://rainsoft.io/gentle-explanation-of-this-in-javascript/#1themysteryofthis
+
 **JavaScript Style Guide and Coding Conventions**
 By: w3schools.com<br>
 http://www.w3schools.com/js/js_conventions.asp
