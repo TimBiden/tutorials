@@ -8,7 +8,7 @@ How To Contribute:
 
 In the end, it should look like this:
 
-##RSpec##<br>
+## RSpec<br>
 _Testing_:
 
 **Everyday Rails Testing with RSpec**
