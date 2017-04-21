@@ -8,7 +8,13 @@ By: Paul E. Black<br>
 https://xlinux.nist.gov/dads//
 
 
-## Sorting:<br>
+## Algorithms:<br>
+_Big-O_:<br>
+
+**Big-O Explained**
+By: Jacob Clark<br>
+https://dev.to/imjacobclark/big-o-explained
+
 _Bucket Sort_:<br>
 
 **Bucket sort**
