@@ -1,13 +1,13 @@
 # Full Stack Tutorials
 
-##AJAX:<br>
+## AJAX:<br>
 _jQuery & Ajax_:<br>
 
 **Ruby on Rails - Railscasts PRO #136 jQuery & Ajax (revised)**
 By: Railscasts Reloaded<br>
 https://www.youtube.com/watch?v=FBxVN7U1Qsk
 
-##Database:<br>
+## Database:<br>
 _PostgreSQL_:<br>
 
 **3 Battle-Tested Ways to Install PostgreSQL**
@@ -33,7 +33,7 @@ http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/
 By: SQL Bolt<br>
 http://sqlbolt.com/
 
-##GitHub:<br>
+## GitHub:<br>
 _Formatting_:<br>
 
 **Basic writing and formatting syntax**
@@ -46,7 +46,7 @@ _General_:<br>
 By: Roger Dudler<br>
 http://rogerdudler.github.io/git-guide/
 
-##JavaScript<br>
+## JavaScript<br>
 _General_: <br>
 
 **ES6 For Everyone!**
@@ -81,14 +81,14 @@ https://www.youtube.com/watch?v=2rkEbcptR64
 By: Kyle Simpson<br>
 https://github.com/getify/You-Dont-Know-JS
 
-##Rails<br>
+## Rails<br>
 _Console_: <br>
 
 **Rails Console Shortcuts, Tips, and Tricks**
 By: The Pragmatic Studio<br>
 https://pragmaticstudio.com/blog/2014/3/11/console-shortcuts-tips-tricks
 
-##RSpec<br>
+## RSpec<br>
 _Testing_:
 
 **Everyday Rails Testing with RSpec**
@@ -99,7 +99,7 @@ https://leanpub.com/everydayrailsrspec
 By: Dave Astel<br>
 http://www.anchor.com.au/wp-content/uploads/rspec_cheatsheet_attributed.pdf
 
-##Ruby:<br>
+## Ruby:<br>
 _Enumeration_:<br>
 
 **Enumerator: Ruby’s Versatile Iterator**
@@ -120,7 +120,7 @@ http://codecapsule.com/2013/11/11/robin-hood-hashing
 By: Maurice Herlihy, Nir Shavit, Moran Tzafrir<br>
 http://people.csail.mit.edu/shanir/publications/disc2008_submission_98.pdf
 
-##Ruby On Rails:<br>
+## Ruby On Rails:<br>
 _Complete Tutorials_:<br>
 
 **Create a Chat App with Rails 5**
@@ -141,13 +141,13 @@ _Routing_:<br>
 By: The Odin Project<br>
 http://www.theodinproject.com/ruby-on-rails/routing
 
-##RegEx:<br>
+## RegEx:<br>
 
 **RegexOne -- In browser interactive Regex tutorials**
 By: Regex One<br>
 http://regexone.com/
 
-##Web Server Configuration:<br>
+## Web Server Configuration:<br>
 _Production Server for Rails 4_:<br>
 
 **How to Setup a Production Server for Rails 4**

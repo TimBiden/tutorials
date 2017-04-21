@@ -1,6 +1,6 @@
 # Computer Science Knowledge
 
-##Data Structures:<br>
+## Data Structures:<br>
 _General_:<br>
 
 **Dictionary of Data Stuctures**
@@ -8,7 +8,7 @@ By: Paul E. Black<br>
 https://xlinux.nist.gov/dads//
 
 
-##Sorting:<br>
+## Sorting:<br>
 _Bucket Sort_:<br>
 
 **Bucket sort**
