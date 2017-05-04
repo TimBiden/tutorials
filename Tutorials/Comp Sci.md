@@ -5,7 +5,7 @@ _General_:<br>
 
 **Dictionary of Data Stuctures**
 By: Paul E. Black<br>
-https://xlinux.nist.gov/dads//
+https://xlinux.nist.gov/dads/
 
 
 ## Algorithms:<br>
