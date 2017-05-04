@@ -1,67 +1,97 @@
 # Table of Contents
-##  Computer Science
-https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md# computer-science-1
-##  Major Technologies
-https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md# major-technologies-1
-##  Ruby Gems
-https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md# ruby-gems-1
-##  Things You Can Do With Ruby/Rails
-https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md# things-you-can-do-with-ruby
-##  Web Design
 
+## Computer Science
 
------
-##  Computer Science
-###  Data Structures
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md# data-structures
+<https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#> computer-science-1
 
-###  Sorting
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md# sorting
+## Major Technologies
 
------
+<https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#> major-technologies-1
 
-##  Major Technologies
-###  AJAX
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md# ajax
+## Ruby Gems
 
-###  Database
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md# database
+<https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#> ruby-gems-1
 
-###  GitHub
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md# github
+## Things You Can Do With Ruby/Rails
 
-###  JavaScript
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md# javascript
+<https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#> things-you-can-do-with-ruby
 
-###  RSpec
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md# rspec
+## Web Design
 
-###  Ruby
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md# rspec
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Web%20Design.md>
 
-###  Ruby on Rails
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md# ruby-on-rails
+--------------------------------------------------------------------------------
 
-###  Web Server Config
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md# web-server-configuration
+## Computer Science
 
------
+### Data Structures
 
-##  Ruby Gems
-###  Ruby Authentication
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Ruby%20Gems.md# user-authentication
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md#> data-structures
 
-###  Scheduling Tasks
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Ruby%20Gems.md# scheduling-tasks
+### Sorting
 
------
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md#> sorting
 
-##  Things You Can Do With Ruby
-###  User File Uploads
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Specific%20Abilities.md# user-file-uploads
+--------------------------------------------------------------------------------
 
------
+## Major Technologies
 
-##  Web Design
-###  General
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md# ajax
+### AJAX
+
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#> ajax
+
+### Database
+
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#> database
+
+### GitHub
+
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#> github
+
+### JavaScript
+
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#> javascript
+
+### RSpec
+
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#> rspec
+
+### Ruby
+
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#> rspec
+
+### Ruby on Rails
+
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#> ruby-on-rails
+
+### Web Server Config
+
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#> web-server-configuration
+
+--------------------------------------------------------------------------------
+
+## Ruby Gems
+
+### Ruby Authentication
+
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Ruby%20Gems.md#> user-authentication
+
+### Scheduling Tasks
+
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Ruby%20Gems.md#> scheduling-tasks
+
+--------------------------------------------------------------------------------
+
+## Things You Can Do With Ruby
+
+### User File Uploads
+
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Specific%20Abilities.md#> user-file-uploads
+
+--------------------------------------------------------------------------------
+
+## Web Design
+
+### General
+
+<https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#> ajax
