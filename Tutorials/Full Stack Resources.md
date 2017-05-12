@@ -49,10 +49,6 @@ http://rogerdudler.github.io/git-guide/
 ## JavaScript<br>
 _General_: <br>
 
-**Beginner’s Guide to npm — the Node Package Manager**
-By: Peter Dierx<br>
-https://www.sitepoint.com/beginners-guide-node-package-manager/
-
 **ES6 For Everyone!**
 By: Wes Bos - Not Free<br>
 https://es6.io/
@@ -84,6 +80,16 @@ https://www.youtube.com/watch?v=2rkEbcptR64
 **You Don't Know JS (book series)**
 By: Kyle Simpson<br>
 https://github.com/getify/You-Dont-Know-JS
+
+***NodeJS***
+
+**Be the NPM (Node Package Manager) Master with these commands**
+By: Neha<br>
+https://medium.com/@hellonehha/be-the-npm-node-package-manager-master-with-these-commands-1f25c5c45d0b
+
+**Beginner’s Guide to npm — the Node Package Manager**
+By: Peter Dierx<br>
+https://www.sitepoint.com/beginners-guide-node-package-manager/
 
 ## Rails<br>
 _Console_: <br>
