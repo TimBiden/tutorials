@@ -1,6 +1,8 @@
 # Table of Contents
 ##  Computer Science
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#computer-science-1
+##  FrontEnd
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/FrontEnd.md
 ##  Major Technologies
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#major-technologies-1
 ##  Ruby Gems
@@ -17,6 +19,12 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md#data-s
 
 ###  Sorting
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md#sorting
+
+-----
+
+##  Front-End
+###  General
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/FrontEnd.md#general
 
 -----
 
