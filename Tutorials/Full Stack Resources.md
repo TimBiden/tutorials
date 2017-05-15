@@ -33,19 +33,6 @@ http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/
 By: SQL Bolt<br>
 http://sqlbolt.com/
 
-## GitHub:<br>
-_Formatting_:<br>
-
-**Basic writing and formatting syntax**
-By: GitHub<br>
-https://help.github.com/articles/basic-writing-and-formatting-syntax/
-
-_General_:<br>
-
-**Git - the simple guide**
-By: Roger Dudler<br>
-http://rogerdudler.github.io/git-guide/
-
 ## JavaScript<br>
 _General_: <br>
 
