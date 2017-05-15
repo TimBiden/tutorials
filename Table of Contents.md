@@ -26,6 +26,9 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md#sortin
 ###  General
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/FrontEnd.md#general
 
+###  React
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/FrontEnd.md#react
+
 -----
 
 ##  Major Technologies
