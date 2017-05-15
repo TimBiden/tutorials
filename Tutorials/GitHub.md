@@ -12,4 +12,8 @@ https://github.com/TimBiden/GitCommands/blob/master/Git-Commands.md
 
 **Git - the simple guide**
 By: Roger Dudler<br>
-http://rogerdudler.github.io/git-guide/
+http://rogerdudler.github.io/git-guide
+
+**Oh shit, git!**
+By: Katie Sylor-Miller<br>
+http://ohshitgit.com/

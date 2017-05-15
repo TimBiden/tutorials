@@ -3,6 +3,8 @@
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#computer-science-1
 ##  FrontEnd
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/FrontEnd.md
+##  Git & GitHub
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/GitHub.md
 ##  Major Technologies
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#major-technologies-1
 ##  Ruby Gems
