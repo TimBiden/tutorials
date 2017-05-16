@@ -82,6 +82,10 @@ https://medium.com/@hellonehha/be-the-npm-node-package-manager-master-with-these
 By: Peter Dierx<br>
 https://www.sitepoint.com/beginners-guide-node-package-manager/
 
+**Notes on Node.js configuration with ENV variables**
+By: Ryan Stellar<br>
+https://medium.com/@ryanstellar/notes-on-node-environment-variables-c6dc00f11f2f
+
 ## Rails<br>
 _Console_: <br>
 
