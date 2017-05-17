@@ -153,8 +153,11 @@ By: Regex One<br>
 http://regexone.com/
 
 ## Web Server Configuration:<br>
-_Production Server for Rails 4_:<br>
 
 **How to Setup a Production Server for Rails 4**
 By: Rob McLarty<br>
 http://robmclarty.com/blog/how-to-setup-a-production-server-for-rails-4
+
+**Setting up config vars for a deployed application on Heroku**
+By: Heroku<br>
+https://devcenter.heroku.com/articles/config-vars#setting-up-config-vars-for-a-deployed-application
