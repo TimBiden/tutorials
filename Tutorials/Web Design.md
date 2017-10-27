@@ -11,3 +11,6 @@ https://hackerthemes.com/bootstrap-cheatsheet/
 
 **CSS Cheat Sheet** By: Cheetyr<br>
 http://www.cheetyr.com/css-selectors
+
+**CSS Flexbox** How Flexbox works — explained with big, colorful, animated gifs
+https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35
