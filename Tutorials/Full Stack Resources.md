@@ -23,6 +23,14 @@ By: RailsCasts<br>
 *Pay attention to the `rails new ...` command.*<br>
 http://railscasts.com/episodes/342-migrating-to-postgresql?autoplay=true<br>
 
+**PostgreSQL Primary Key**
+By: PostgreSQL Tutorial<br>
+http://www.postgresqltutorial.com/postgresql-primary-key/
+
+**PostgreSQL Foreign Key**
+By: PostgreSQL Tutorial<br>
+http://www.postgresqltutorial.com/postgresql-foreign-key/
+
 _SQL_:<br>
 
 **A beginners guide to SQL**
