@@ -8,6 +8,21 @@ By: Railscasts Reloaded<br>
 https://www.youtube.com/watch?v=FBxVN7U1Qsk
 
 ## Database:<br>
+
+_SQL_:<br>
+
+**A beginners guide to SQL**
+By: Soham Kamani<br>
+http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/
+
+**Database Design Videos** - Most of what you'll need for DBs is here.<br>
+By: Caleb Curry<br>
+https://www.calebcurry.com/videos/database-design/database-design-introduction
+
+**SQLBolt -- In browser interactive SQL tutorials**
+By: SQL Bolt<br>
+http://sqlbolt.com/
+
 _PostgreSQL_:<br>
 
 **3 Battle-Tested Ways to Install PostgreSQL**
@@ -30,16 +45,6 @@ http://www.postgresqltutorial.com/postgresql-primary-key/
 **PostgreSQL Foreign Key**
 By: PostgreSQL Tutorial<br>
 http://www.postgresqltutorial.com/postgresql-foreign-key/
-
-_SQL_:<br>
-
-**A beginners guide to SQL**
-By: Soham Kamani<br>
-http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/
-
-**SQLBolt -- In browser interactive SQL tutorials**
-By: SQL Bolt<br>
-http://sqlbolt.com/
 
 ## JavaScript<br>
 _General_: <br>
