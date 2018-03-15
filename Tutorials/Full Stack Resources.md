@@ -23,6 +23,10 @@ https://www.calebcurry.com/videos/database-design/database-design-introduction
 By: SQL Bolt<br>
 http://sqlbolt.com/
 
+**Subqueries in SQL**
+By: Dave Sullivan<br>
+https://www.youtube.com/watch?v=8hyCpyhj8Jc
+
 _PostgreSQL_:<br>
 
 **3 Battle-Tested Ways to Install PostgreSQL**
