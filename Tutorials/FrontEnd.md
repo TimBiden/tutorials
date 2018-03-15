@@ -26,3 +26,9 @@ http://btholt.github.io/complete-intro-to-react/all.html
 **React Training - Not Free**
 By: Tyler McGinnis, Ryan Florence, Michael Jackson<br>
 https://reacttraining.com/online
+
+## Web Frameworks:<br>
+
+**Frame by Graphicmade: free collection of web frameworks for dynamic web applications**
+By: Graphicmade<br>
+http://frame.graphicmade.com/
