@@ -2,9 +2,9 @@
 
 ## General:<br>
 
-**Front-End Developer Handbook 2017**
+**Front-End Developer Handbook 2018**
 By: Frontend Masters<br>
-https://.com/books/front-end-handbook/2017/
+https://frontendmasters.com/books/front-end-handbook/2018/
 
 ## JavaScript Dom:<br>
 
