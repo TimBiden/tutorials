@@ -85,6 +85,10 @@ https://www.udemy.com/understand-javascript/
 By: kudvenkat<br>
 https://www.youtube.com/watch?v=2rkEbcptR64
 
+**WTF is THIS: Understanding the "this" keyword in JavaScript**
+By: Tyler McGinnis<br>
+https://www.youtube.com/watch?v=zE9iro4r918
+
 **You Don't Know JS (book series)**
 By: Kyle Simpson<br>
 https://github.com/getify/You-Dont-Know-JS

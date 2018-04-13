@@ -7,6 +7,10 @@ _General_:<br>
 By: Paul E. Black<br>
 https://xlinux.nist.gov/dads/
 
+**Data structures: Introduction to graphs**
+By: mycodeschool<br>
+https://www.youtube.com/watch?v=gXgEDyodOJU
+
 
 ## Algorithms:<br>
 _Big-O_:<br>
