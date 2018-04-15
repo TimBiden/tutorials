@@ -1,8 +1,8 @@
 # Table of Contents
 ##  Computer Science
 https://github.com/TimBiden/tutorials/blob/master/Table%20of%20Contents.md#computer-science-1
-##  FrontEnd
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/FrontEnd.md
+##  FrontEnd & JavaScript
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/JavaScript.md
 ##  Git & GitHub
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/GitHub.md
 ##  Major Technologies
@@ -26,10 +26,10 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md#sortin
 
 ##  Front-End
 ###  General
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/FrontEnd.md#general
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/JavaScript.md#general
 
 ###  React
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/FrontEnd.md#react
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/JavaScript.md#react
 
 -----
 
@@ -44,7 +44,7 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resou
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#github
 
 ###  JavaScript
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#javascript
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/JavaScript.md#general
 
 ###  RSpec
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#rspec
