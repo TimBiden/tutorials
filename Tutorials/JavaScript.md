@@ -60,7 +60,7 @@ https://crismaster.github.io/es6-examples/
 ## NodeJS:<br>
 
 **Art of Node**
-By: maxogden<br>
+By: Max Ogden<br>
 https://github.com/maxogden/art-of-node#the-art-of-node
 
 **Be the NPM (Node Package Manager) Master with these commands**

@@ -28,6 +28,12 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Comp%20Sci.md#sortin
 ###  General
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/JavaScript.md#general
 
+### JavaScript Dom
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/JavaScript.md#javascript-dom
+
+### NodeJS
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/JavaScript.md#nodejs
+
 ###  React
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/JavaScript.md#react
 
