@@ -81,6 +81,10 @@ https://medium.com/@ryanstellar/notes-on-node-environment-variables-c6dc00f11f2f
 By: Brian Holt<br>
 http://btholt.github.io/complete-intro-to-react/all.html
 
+**React Training**
+By: Tyler McGinnis<br>
+https://tylermcginnis.com/free-react-bootcamp/
+
 **React Training - Not Free**
 By: Tyler McGinnis, Ryan Florence, Michael Jackson<br>
 https://reacttraining.com/online
