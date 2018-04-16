@@ -75,12 +75,12 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Ruby%20Gems.md#sched
 
 -----
 
-##  Good things to know for writing code
-###  Typing Lessons and Practice
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Specific%20Abilities.md
-
------
-
 ##  Web Design
 ###  General
 https://github.com/TimBiden/tutorials/blob/master/Tutorials/Full%20Stack%20Resources.md#ajax
+
+-----
+
+##  Specific Abilities for Writing Code
+###  Typing Lessons and Practice
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Specific%20Abilities.md
