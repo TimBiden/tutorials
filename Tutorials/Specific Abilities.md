@@ -1,7 +1,11 @@
-# Things You Can Do With Ruby
-## User File Uploads<br>
+# Good things to know for writing code:
 
-_File Uploads_:<br>
-**Asynchronous Multiple File Upload with Rails and Dropzone.js**
-By: Vahob Rasti<br>
-https://www.sitepoint.com/asynchronous-multiple-file-upload-with-rails-and-dropzone-js/
+## Typing Lessons and Practice<br>
+
+**Online Typing Practice for Programmers**
+By: Aman Deep<br>
+http://www.speedcoder.net/
+
+**Typing Practice for Programmers**
+By: Typing.io<br>
+https://www.typing.io/

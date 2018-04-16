@@ -75,9 +75,9 @@ https://github.com/TimBiden/tutorials/blob/master/Tutorials/Ruby%20Gems.md#sched
 
 -----
 
-##  Things You Can Do With Ruby
-###  User File Uploads
-https://github.com/TimBiden/tutorials/blob/master/Tutorials/Specific%20Abilities.md#user-file-uploads
+##  Good things to know for writing code
+###  Typing Lessons and Practice
+https://github.com/TimBiden/tutorials/blob/master/Tutorials/Specific%20Abilities.md
 
 -----
 
