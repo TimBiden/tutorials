@@ -1,4 +1,4 @@
-# Good things to know for writing code:
+# Specific Abilities for Writing Code:
 
 ## Typing Lessons and Practice<br>
 
