@@ -19,6 +19,10 @@ http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/
 By: Caleb Curry<br>
 https://www.calebcurry.com/videos/database-design/database-design-introduction
 
+**Essential SQL** - Great SQL teacher with tons of free info and some paid courses.<br>
+By: Kris Wenzel<br>
+https://www.essentialsql.com/
+
 **SQLBolt -- In browser interactive SQL tutorials**
 By: SQL Bolt<br>
 http://sqlbolt.com/
