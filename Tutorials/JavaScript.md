@@ -26,6 +26,11 @@ http://www.fullstackjs.com/book/
 By: Dmitri Pavlutin<br>
 https://rainsoft.io/gentle-explanation-of-this-in-javascript/#1themysteryofthis
 
+**JavaScript Basics**
+By:
+freeCodeCamp<br>
+https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5
+
 **JavaScript Style Guide and Coding Conventions**
 By: w3schools.com<br>
 http://www.w3schools.com/js/js_conventions.asp
