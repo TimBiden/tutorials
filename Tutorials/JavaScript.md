@@ -84,7 +84,7 @@ https://medium.com/@ryanstellar/notes-on-node-environment-variables-c6dc00f11f2f
 
 **A Complete Intro to React**
 By: Brian Holt<br>
-http://btholt.github.io/complete-intro-to-react/all.html
+http://btholt.github.io/complete-intro-to-react
 
 **React Training**
 By: Tyler McGinnis<br>
