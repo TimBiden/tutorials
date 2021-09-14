@@ -100,6 +100,6 @@ https://www.youtube.com/playlist?list=PL7pEw9n3GkoVAqCMVTz2mKthyWr-svpQJ
 
 ## Web Frameworks:<br>
 
-**Frame by Graphicmade: free collection of web frameworks for dynamic web applications**
+**Framestack by Graphicmade: free collection of web frameworks for dynamic web applications**
 By: Graphicmade<br>
-http://frame.graphicmade.com/
+https://framestack.net/
